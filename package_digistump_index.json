@@ -70,8 +70,8 @@
               "host": "x86_64-apple-darwin",
               "archiveFileName": "avr-dummy-darwin.tar.bz2",
               "url": "https://github.com/boneskull/digistump-board-index/releases/download/avr-dummy/avr-dummy-darwin.tar.bz2",
-              "checksum": "SHA-256:84027de12a8c82f419e20569d17502e82a3fdd82b3f289293cb11fdac01530cb",
-              "size": "6753"
+              "checksum": "SHA-256:6a8343d456149d7f9378f3f9de72417afabe0819d142d666f8c65050bbc95d8c",
+              "size": "6750"
             }
           ]
         },
