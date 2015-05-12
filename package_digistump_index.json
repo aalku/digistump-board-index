@@ -14,7 +14,7 @@
           "architecture": "avr",
           "version": "1.5.4",
           "category": "Digistump",
-          "url": "https://boneskull.github.io/digistump-board-index/boards/digistump-avr-1.5.4.tar.bz2",
+          "url": "http://boneskull.github.io/digistump-board-index/boards/digistump-avr-1.5.4.tar.bz2",
           "archiveFileName": "digistump-avr-1.5.4.tar.bz2",
           "checksum": "SHA-256:1ef422321ce96e93a8d5573ed30a3599406175c00e73d18635818e48263c30f2",
           "size": "1812028",
