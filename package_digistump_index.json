@@ -63,15 +63,15 @@
               "host": "i686-mingw32",
               "archiveFileName": "avr-dummy-windows.tar.bz2",
               "url": "https://github.com/boneskull/digistump-board-index/releases/download/avr-dummy/avr-dummy-windows.tar.bz2",
-              "checksum": "SHA-256:6399a847b9688246d85289ffe84721ab33491dee64e8a6c0acacec8e9eaa9d88",
-              "size": "351893"
+              "checksum": "SHA-256:b9bedc5f730ec0549ec2c236280e1971c0b4c21e48220a795645be11d5584bfc",
+              "size": "351933"
             },
             {
               "host": "x86_64-apple-darwin",
-              "archiveFileName": "avr-dummy-windows.tar.bz2",
+              "archiveFileName": "avr-dummy-darwin.tar.bz2",
               "url": "https://github.com/boneskull/digistump-board-index/releases/download/avr-dummy/avr-dummy-darwin.tar.bz2",
-              "checksum": "SHA-256:36bb52a9c5cac897adf77a9345a5b03bad4884880b46b48a359d03fc7625fe76",
-              "size": "6691"
+              "checksum": "SHA-256:84027de12a8c82f419e20569d17502e82a3fdd82b3f289293cb11fdac01530cb",
+              "size": "6753"
             }
           ]
         },
@@ -83,15 +83,15 @@
               "host": "x86_64-apple-darwin",
               "archiveFileName": "micronucleus-1.11-darwin.tar.bz2",
               "url": "https://github.com/boneskull/digistump-board-index/releases/download/micronucleus-1.11/micronucleus-1.11-darwin.tar.bz2",
-              "checksum": "SHA-256:070a33a385533b4176b81d27e2e1a02f9d6e1511a405cf09bb989ba678ee34f4",
-              "size": "37980"
+              "checksum": "SHA-256:262e0cc6977f95ae2d2b76254ac26c2148f603a315927cc424ec4e52ffd783e8",
+              "size": "38000"
             },
             {
               "host": "i686-mingw32",
               "archiveFileName": "micronucleus-1.11-windows.tar.bz2",
               "url": "https://github.com/boneskull/digistump-board-index/releases/download/micronucleus-1.11/micronucleus-1.11-windows.tar.bz2",
-              "checksum": "e7fe3b9275de5899b2a69cca8abff3c5cd71a5ce61efb499d0e78b325fa7f059",
-              "size": "13189"
+              "checksum": "4e8c423fde901071259d679c3aaef97cf57c5229286057e40b73ffd4daffbf7a",
+              "size": "13224"
             }
           ]
         }
