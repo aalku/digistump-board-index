@@ -57,7 +57,7 @@
       "tools": [
         {
           "name": "avr-dummy",
-          "version": "*",
+          "version": "avr-dummy",
           "systems": [
             {
               "host": "i686-mingw32",
