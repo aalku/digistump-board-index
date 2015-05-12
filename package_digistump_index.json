@@ -16,8 +16,8 @@
           "category": "Digistump",
           "url": "https://github.com/boneskull/digistump-board-index/releases/download/v1.5.4/digistump-avr.tar.bz2",
           "archiveFileName": "digistump-avr.tar.bz2",
-          "checksum": "SHA-256:06c92b69bb2f919b955a3dc7703839aaeeb2bc3bcbbd70fff1bdfbcf90838805",
-          "size": "1812121",
+          "checksum": "SHA-256:19a0afe056a4d4d713db6dacd3bb6311364a7a88298417378cec71749076e1ca",
+          "size": "1812199",
           "help": {
             "online": "https://github.com/boneskull/digistump-board-index/issues"
           },
