@@ -3,10 +3,10 @@
     {
       "name": "digistump",
       "maintainer": "Christopher Hiller",
-      "websiteURL": "https://github.com/boneskull/digispark-board-index",
+      "websiteURL": "https://github.com/boneskull/digistump-board-index",
       "email": "boneskull@boneskull.com",
       "help": {
-        "online": "https://github.com/boneskull/digispark-board-index/issues"
+        "online": "https://github.com/boneskull/digistump-board-index/issues"
       },
       "platforms": [
         {
@@ -14,12 +14,12 @@
           "architecture": "avr",
           "version": "1.5.4",
           "category": "Digistump",
-          "url": "https://github.com/boneskull/digistump-board-index/releases/download/digistump-avr-1.5.4.tar.bz2",
-          "archiveFileName": "digistump-avr-1.5.4.tar.bz2",
+          "url": "https://github.com/boneskull/digistump-board-index/releases/download/v1.5.4/digistump-avr.tar.bz2",
+          "archiveFileName": "digistump-avr.tar.bz2",
           "checksum": "SHA-256:1ef422321ce96e93a8d5573ed30a3599406175c00e73d18635818e48263c30f2",
           "size": "1812028",
           "help": {
-            "online": "https://github.com/boneskull/digispark-board-index/issues"
+            "online": "https://github.com/boneskull/digistump-board-index/issues"
           },
           "boards": [
             {
@@ -87,7 +87,7 @@
               "size": "37980"
             },
             {
-              "host":"i686-mingw32",
+              "host": "i686-mingw32",
               "archiveFileName": "micronucleus-1.11-windows.tar.bz2",
               "url": "https://github.com/boneskull/digistump-board-index/releases/download/micronucleus-1.11-windows.tar.bz2",
               "checksum": "e7fe3b9275de5899b2a69cca8abff3c5cd71a5ce61efb499d0e78b325fa7f059",
