@@ -44,7 +44,7 @@
             {
               "packager": "digistump",
               "name": "avr-dummy",
-              "version": "*"
+              "version": "avr-dummy"
             },
             {
               "packager": "digistump",
