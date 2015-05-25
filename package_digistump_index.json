@@ -90,7 +90,7 @@
               "host": "i686-mingw32",
               "archiveFileName": "micronucleus-1.11-windows.tar.bz2",
               "url": "https://github.com/boneskull/digistump-board-index/releases/download/micronucleus-1.11/micronucleus-1.11-windows.tar.bz2",
-              "checksum": "4e8c423fde901071259d679c3aaef97cf57c5229286057e40b73ffd4daffbf7a",
+              "checksum": "SHA-256:4e8c423fde901071259d679c3aaef97cf57c5229286057e40b73ffd4daffbf7a",
               "size": "13224"
             }
           ]
